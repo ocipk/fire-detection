@@ -4,7 +4,10 @@ A simple Python application that uses OpenCV Haar Cascades to detect
 fire from a webcam feed and play an alarm.
 
 
-https://github.com/user-attachments/assets/1e16219a-0035-405b-91ee-5dbb877bbfee
+
+
+https://github.com/user-attachments/assets/e15c3a19-afa2-4b21-99f5-2119b251c260
+
 
 
 
